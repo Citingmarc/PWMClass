@@ -1,8 +1,8 @@
 # PWMClass
 
-A class to be called on interrupts to manage a template PWM signal
-Every 256 calls the PWM signal completes one cycle
-The timer on the interrupt should be defined by the desired period / 256
+A class to be called on interrupts to manage a template PWM signal. 
+Every 256 calls the PWM signal completes one cycle. 
+The timer on the interrupt should be defined by the desired period / 256.
 
 ### Usage
 
